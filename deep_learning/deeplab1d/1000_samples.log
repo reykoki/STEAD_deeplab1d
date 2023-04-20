@@ -1,0 +1,116 @@
+cuda
+1000
+--------------
+Starting Epoch: 0
+Training Loss:   80869.52783203
+Validation Loss: 11430.38977051
+fraction of p-waves within .1 sec: 0.004
+fraction of s-waves within .1 sec: 0.003
+fraction of p-waves within .5 sec: 0.074
+fraction of s-waves within .5 sec: 0.004
+--------------
+Starting Epoch: 1
+Training Loss:   23279.07324219
+Validation Loss: 14769.34024048
+fraction of p-waves within .1 sec: 0.187
+fraction of s-waves within .1 sec: 0.001
+fraction of p-waves within .5 sec: 0.229
+fraction of s-waves within .5 sec: 0.002
+--------------
+Starting Epoch: 2
+Training Loss:   24152.42382812
+Validation Loss: 20968.41491699
+fraction of p-waves within .1 sec: 0.187
+fraction of s-waves within .1 sec: 0.001
+fraction of p-waves within .5 sec: 0.228
+fraction of s-waves within .5 sec: 0.002
+--------------
+Starting Epoch: 3
+Training Loss:   19868.75976562
+Validation Loss: 18058.7661438
+fraction of p-waves within .1 sec: 0.189
+fraction of s-waves within .1 sec: 0.0
+fraction of p-waves within .5 sec: 0.24
+fraction of s-waves within .5 sec: 0.001
+--------------
+Starting Epoch: 4
+Training Loss:   13378.40393066
+Validation Loss: 19716.77090454
+fraction of p-waves within .1 sec: 0.006
+fraction of s-waves within .1 sec: 0.184
+fraction of p-waves within .5 sec: 0.056
+fraction of s-waves within .5 sec: 0.187
+--------------
+Starting Epoch: 5
+Training Loss:   12710.93615723
+Validation Loss: 22927.21347046
+fraction of p-waves within .1 sec: 0.188
+fraction of s-waves within .1 sec: 0.183
+fraction of p-waves within .5 sec: 0.226
+fraction of s-waves within .5 sec: 0.184
+--------------
+Starting Epoch: 6
+Training Loss:   10474.71026611
+Validation Loss: 25930.24893188
+fraction of p-waves within .1 sec: 0.188
+fraction of s-waves within .1 sec: 0.184
+fraction of p-waves within .5 sec: 0.228
+fraction of s-waves within .5 sec: 0.186
+--------------
+Starting Epoch: 7
+Training Loss:   8593.45996094
+Validation Loss: 21854.43623352
+fraction of p-waves within .1 sec: 0.188
+fraction of s-waves within .1 sec: 0.184
+fraction of p-waves within .5 sec: 0.229
+fraction of s-waves within .5 sec: 0.188
+--------------
+Starting Epoch: 8
+Training Loss:   8023.04553223
+Validation Loss: 17787.6125946
+fraction of p-waves within .1 sec: 0.187
+fraction of s-waves within .1 sec: 0.184
+fraction of p-waves within .5 sec: 0.226
+fraction of s-waves within .5 sec: 0.186
+--------------
+Starting Epoch: 9
+Training Loss:   6921.59411621
+Validation Loss: 24936.38369751
+fraction of p-waves within .1 sec: 0.188
+fraction of s-waves within .1 sec: 0.185
+fraction of p-waves within .5 sec: 0.227
+fraction of s-waves within .5 sec: 0.187
+--------------
+Starting Epoch: 10
+Training Loss:   6773.76397705
+Validation Loss: 21227.96711731
+fraction of p-waves within .1 sec: 0.187
+fraction of s-waves within .1 sec: 0.186
+fraction of p-waves within .5 sec: 0.224
+fraction of s-waves within .5 sec: 0.189
+--------------
+Starting Epoch: 11
+Training Loss:   5722.99987793
+Validation Loss: 18530.22624207
+fraction of p-waves within .1 sec: 0.185
+fraction of s-waves within .1 sec: 0.184
+fraction of p-waves within .5 sec: 0.217
+fraction of s-waves within .5 sec: 0.186
+--------------
+Starting Epoch: 12
+Training Loss:   5252.34326172
+Validation Loss: 12357.57392883
+fraction of p-waves within .1 sec: 0.005
+fraction of s-waves within .1 sec: 0.001
+fraction of p-waves within .5 sec: 0.04
+fraction of s-waves within .5 sec: 0.183
+--------------
+Starting Epoch: 13
+Training Loss:   4455.81619263
+Validation Loss: 18966.26124573
+fraction of p-waves within .1 sec: 0.006
+fraction of s-waves within .1 sec: 0.002
+fraction of p-waves within .5 sec: 0.042
+fraction of s-waves within .5 sec: 0.191
+--------------
+Starting Epoch: 14
